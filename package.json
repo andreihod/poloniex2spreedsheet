@@ -1,0 +1,16 @@
+{
+  "name": "poloniex2spreedsheet",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "autobahn": "^17.5.2",
+    "google-spreadsheet": "^2.0.4",
+    "mercadobitcoin": "0.0.4"
+  }
+}
