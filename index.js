@@ -65,7 +65,7 @@ function getPoloniexCell(ex){
       cell = btcUsdCell; break;
     case 'BTC_ETH':
       cell = priceCells[0]; break;
-    case 'BTC_STR':
+    case 'BTC_DASH':
       cell = priceCells[1]; break;
     case 'BTC_XRP':
       cell = priceCells[2]; break;
