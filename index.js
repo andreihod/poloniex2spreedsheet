@@ -71,6 +71,8 @@ function getPoloniexCell(ex){
       cell = priceCells[2]; break;
     case 'BTC_ZEC':
       cell = priceCells[3]; break;
+    case 'BTC_BCH':
+      cell = priceCells[4]; break;
   }
   return cell;
 }
